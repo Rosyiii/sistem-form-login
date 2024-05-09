@@ -16,7 +16,7 @@ dalam sistem ini juga sudah terdapat login default user sebagai berikut
 
 Apabila anda login menggunakan default user admin anda akan memperoleh hak akses admin, begitupun sebaliknya
 
-##Cara Menggunakan
+## Cara Menggunakan
 1. Clone terlebih dahulu sistem ini melalui github
 2. Pastikan pada Sistem Operasi anda sudah terinstal beberapa keperluan untuk menggunakan laravel 10
 3. Atur pada environment
